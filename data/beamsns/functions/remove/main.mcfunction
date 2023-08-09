@@ -42,3 +42,6 @@ execute as @s[tag=beamsns.interaction.angled_beam.stripped.cherry] run function 
 execute as @s[tag=beamsns.interaction.angled_beam.stripped.bamboo] run function beamsns:remove/angled/stripped/bamboo
 execute as @s[tag=beamsns.interaction.angled_beam.stripped.crimson] run function beamsns:remove/angled/stripped/crimson
 execute as @s[tag=beamsns.interaction.angled_beam.stripped.warped] run function beamsns:remove/angled/stripped/warped
+
+#general
+execute as @s[tag=beamsns.interaction.angled_beam.general.stone] run function beamsns:remove/angled/general/stone
