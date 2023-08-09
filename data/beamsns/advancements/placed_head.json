@@ -1,0 +1,26 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:placed_block",
+        "conditions": {
+          "location": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "block": {
+                  "blocks": [
+                    "minecraft:player_head"
+                  ],
+                  "nbt": "{SkullOwner:{Name:\"$beamsns.block.beam\"}}"
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "function": "beamsns:place/raycast/init"
+    }
+  }
+  
