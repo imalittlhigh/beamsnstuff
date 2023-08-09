@@ -29,3 +29,16 @@ execute as @s[tag=beamsns.interaction.angled_beam.log.cherry] run function beams
 execute as @s[tag=beamsns.interaction.angled_beam.log.bamboo] run function beamsns:remove/angled/log/bamboo
 execute as @s[tag=beamsns.interaction.angled_beam.log.crimson] run function beamsns:remove/angled/log/crimson
 execute as @s[tag=beamsns.interaction.angled_beam.log.warped] run function beamsns:remove/angled/log/warped
+
+#stripped logs
+execute as @s[tag=beamsns.interaction.angled_beam.stripped.oak] run function beamsns:remove/angled/stripped/oak
+execute as @s[tag=beamsns.interaction.angled_beam.stripped.spruce] run function beamsns:remove/angled/stripped/spruce
+execute as @s[tag=beamsns.interaction.angled_beam.stripped.birch] run function beamsns:remove/angled/stripped/birch
+execute as @s[tag=beamsns.interaction.angled_beam.stripped.acacia] run function beamsns:remove/angled/stripped/acacia
+execute as @s[tag=beamsns.interaction.angled_beam.stripped.jungle] run function beamsns:remove/angled/stripped/jungle
+execute as @s[tag=beamsns.interaction.angled_beam.stripped.dark_oak] run function beamsns:remove/angled/stripped/dark_oak
+execute as @s[tag=beamsns.interaction.angled_beam.stripped.mangrove] run function beamsns:remove/angled/stripped/mangrove
+execute as @s[tag=beamsns.interaction.angled_beam.stripped.cherry] run function beamsns:remove/angled/stripped/cherry
+execute as @s[tag=beamsns.interaction.angled_beam.stripped.bamboo] run function beamsns:remove/angled/stripped/bamboo
+execute as @s[tag=beamsns.interaction.angled_beam.stripped.crimson] run function beamsns:remove/angled/stripped/crimson
+execute as @s[tag=beamsns.interaction.angled_beam.stripped.warped] run function beamsns:remove/angled/stripped/warped

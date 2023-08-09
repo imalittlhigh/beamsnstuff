@@ -50,3 +50,26 @@ give @p minecraft:player_head{display:{Name:"{\"text\":\"Oak Log\"}"},SkullOwner
 give @p minecraft:player_head{display:{Name:"{\"text\":\"Spruce Log\"}"},SkullOwner:{Id:[I;2033205319,-547272101,-1113743018,-1306244628],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWY0YWYyODk4MjVlMTI3ZGFjMzIyMDhiMWUwMzg5YTkyN2VmNDA1NTk3YjZjOWE2NGNlZjAzZjIxZDkyNzNiNSJ9fX0="}]}}} 1
 
 give @p minecraft:player_head{display:{Name:"{\"text\":\"Warped Stem\"}"},SkullOwner:{Id:[I;-1939960264,-1678753618,-1541653519,1474393684],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTMyZDQxZGFlZTZmNjFjYTAwZTVlY2Y5ZGZkZDYyNDVhZjYyMGYxYWI2MjU4ZTk4NmRhNjczYzU3ZTUzMTJhNiJ9fX0="}]}}} 1
+
+#stripped logs
+give @p minecraft:player_head{display:{Name:"{\"text\":\"Stripped Acacia Log\"}"},SkullOwner:{Id:[I;1280979661,1900495188,-1501250136,1715372631],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmJjN2IxNDk5NzUzMjYwNTcyOTZlMjc3NzNhNjQwNzllOWQwNTEwYTBhNjQ4ZGVlYjEyOWYxYjQ3YWY0MDEyIn19fQ=="}]}}} 1
+
+give @p minecraft:player_head{display:{Name:"{\"text\":\"Stripped Bamboo Block\"}"},SkullOwner:{Id:[I;1100076226,-2129247296,-1210179130,-1133303532],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmVkNDU2ODRlMjQ2YTQzZDE5NzMzNGY2YjczYjZkODMxNjg3MDRmN2Q3NjM5YWI5ZmJiMzhiODA2MDc0ZmZmNSJ9fX0="}]}}} 1
+
+give @p minecraft:player_head{display:{Name:"{\"text\":\"Stripped Birch Log\"}"},SkullOwner:{Id:[I;171138036,254626807,-1990355613,319137705],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTFjZGUzNTUwMjZkMTJiMzcwOGE0YWI3NzUxOWI3NzQ2YjZiYjJiZDU4MWUzMjc2ZGMzM2ZlMjI2MTdlNGI3OSJ9fX0="}]}}} 1
+
+give @p minecraft:player_head{display:{Name:"{\"text\":\"Stripped Cherry Log\"}"},SkullOwner:{Id:[I;-1134756239,1503086320,-1741805790,313274031],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjU2YzA0ZTVjNzJkNGM1ZmJkNjMxNjgzNWE0NTJmMDAxYzIwZTg0ZDJkZGJlZTg0YzY0NDcwNTg0NGI0ZjQ3MSJ9fX0="}]}}} 1
+
+give @p minecraft:player_head{display:{Name:"{\"text\":\"Stripped Crimson Stem\"}"},SkullOwner:{Id:[I;-923579577,32525019,-1523307952,-132781138],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTA1ZjgyOWVkZGEwOTE0MjE0NzU4NTUxZDk5ZGMzM2IzNmY4ZGYxZjFkMTFjNjgwNWRiMzEwYzRkYjU3MzJjNSJ9fX0="}]}}} 1
+
+give @p minecraft:player_head{display:{Name:"{\"text\":\"Stripped Dark Oak Log\"}"},SkullOwner:{Id:[I;473914642,1355238428,-1705279553,-346448103],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDM2NzExZDVkOGQxNzM3MzEwNmZlZjdlNjcxY2U3ODg0YjA0Njg4NDZkNGU5NTU5NDdmNzdiMmQ0YzM0MTBiMSJ9fX0="}]}}} 1
+
+give @p minecraft:player_head{display:{Name:"{\"text\":\"Stripped Jungle Log\"}"},SkullOwner:{Id:[I;1569090212,1568295406,-1612751130,1477502423],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjA1MjU4NTU4NDY1OTg0ZWRkZmJiZjlmMTdlODhjNTFlOGE3YjMzOTJjY2JmNzAzZDBjYjQxNTQxMjQxOGRmZSJ9fX0="}]}}} 1
+
+give @p minecraft:player_head{display:{Name:"{\"text\":\"Stripped Mangrove Log\"}"},SkullOwner:{Id:[I;-546878926,-1100591561,-1780405748,-1856464590],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWU0YzViMzY2NGEzODAxMTdhZjhhNzQ3ZGY4ZGE4MTFiMGRkODVlMDljMzg1MDY0NWIwNjU3MTE3Yzk0M2YyNyJ9fX0="}]}}} 1
+
+give @p minecraft:player_head{display:{Name:"{\"text\":\"Stripped Oak Log\"}"},SkullOwner:{Id:[I;176328744,1394427307,-2020441819,904219763],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTQ4OGVhN2VlNTM4YTA1MzY3OGU3MDM3ZWQwMjRlNjZlNDdkODgzOGY5ZWM3ZmQ4NmU0NmIwMzRiZmYxNGMxZCJ9fX0="}]}}} 1
+
+give @p minecraft:player_head{display:{Name:"{\"text\":\"Stripped Spruce Log\"}"},SkullOwner:{Id:[I;42718738,-168411128,-1475545434,-1448167389],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWU1MjBkODZlMzRiZmM4ZTA4YTA0NTBhMjY0MjM5YzIyMjY0Y2Q2ZGRlMmJhMjI5MzQzYWFlMjgwY2EyOTBkOCJ9fX0="}]}}} 1
+
+give @p minecraft:player_head{display:{Name:"{\"text\":\"Stripped Warped Stem\"}"},SkullOwner:{Id:[I;1705202229,912738578,-1451196885,642114913],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjRkMDk3ZjQ2ODkxYjQwODFmMDAxMjhjNGViZDJmYzg2NGFkODlmM2E3MGY0ZDUyZmZmYjFjYTBhYzA0ZGVhNSJ9fX0="}]}}} 1

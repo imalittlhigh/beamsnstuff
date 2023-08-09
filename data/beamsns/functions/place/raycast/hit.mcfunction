@@ -32,3 +32,16 @@ execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,2,8],Name:"$beamsns.
 execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,2,9],Name:"$beamsns.block.beam"}} run function beamsns:place/angled/log/bamboo
 execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,2,10],Name:"$beamsns.block.beam"}} run function beamsns:place/angled/log/crimson
 execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,2,11],Name:"$beamsns.block.beam"}} run function beamsns:place/angled/log/warped
+
+#test what type of stripped log the beam is
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,3,1],Name:"$beamsns.block.beam"}} run function beamsns:place/angled/stripped/oak
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,3,2],Name:"$beamsns.block.beam"}} run function beamsns:place/angled/stripped/spruce
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,3,3],Name:"$beamsns.block.beam"}} run function beamsns:place/angled/stripped/birch
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,3,4],Name:"$beamsns.block.beam"}} run function beamsns:place/angled/stripped/jungle
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,3,5],Name:"$beamsns.block.beam"}} run function beamsns:place/angled/stripped/acacia
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,3,6],Name:"$beamsns.block.beam"}} run function beamsns:place/angled/stripped/dark_oak
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,3,7],Name:"$beamsns.block.beam"}} run function beamsns:place/angled/stripped/mangrove
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,3,8],Name:"$beamsns.block.beam"}} run function beamsns:place/angled/stripped/cherry
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,3,9],Name:"$beamsns.block.beam"}} run function beamsns:place/angled/stripped/bamboo
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,3,10],Name:"$beamsns.block.beam"}} run function beamsns:place/angled/stripped/crimson
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,3,11],Name:"$beamsns.block.beam"}} run function beamsns:place/angled/stripped/warped
