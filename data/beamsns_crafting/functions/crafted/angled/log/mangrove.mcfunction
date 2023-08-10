@@ -13,3 +13,6 @@ clear @s knowledge_book
 loot give @s loot beamsns:beams/angled/log/mangrove
 loot give @s loot beamsns:beams/angled/log/mangrove
 loot give @s loot beamsns:beams/angled/log/mangrove
+loot give @s loot beamsns:beams/angled/log/mangrove
+loot give @s loot beamsns:beams/angled/log/mangrove
+loot give @s loot beamsns:beams/angled/log/mangrove

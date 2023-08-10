@@ -13,3 +13,6 @@ clear @s knowledge_book
 loot give @s loot beamsns:beams/angled/stripped/acacia
 loot give @s loot beamsns:beams/angled/stripped/acacia
 loot give @s loot beamsns:beams/angled/stripped/acacia
+loot give @s loot beamsns:beams/angled/stripped/acacia
+loot give @s loot beamsns:beams/angled/stripped/acacia
+loot give @s loot beamsns:beams/angled/stripped/acacia

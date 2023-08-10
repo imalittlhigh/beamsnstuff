@@ -13,3 +13,6 @@ clear @s knowledge_book
 loot give @s loot beamsns:beams/angled/stripped/crimson
 loot give @s loot beamsns:beams/angled/stripped/crimson
 loot give @s loot beamsns:beams/angled/stripped/crimson
+loot give @s loot beamsns:beams/angled/stripped/crimson
+loot give @s loot beamsns:beams/angled/stripped/crimson
+loot give @s loot beamsns:beams/angled/stripped/crimson
