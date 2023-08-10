@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "beamsns_crafting:angled/general/gold_block"
+      }
+    }
+  },
+  "rewards": {
+    "function": "beamsns_crafting:crafted/angled/general/gold_block"
+  }
+}
