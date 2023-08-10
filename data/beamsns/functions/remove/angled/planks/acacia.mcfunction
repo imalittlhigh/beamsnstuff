@@ -4,7 +4,7 @@
  #
  # Created by imalittlhigh.
 ##
-execute positioned ~-0.5 ~-0.3 ~-0.5 run kill @e[tag=beamsns.blockdisplay.angled_beam.log.acacia,distance=..0.1,limit=2,sort=nearest]
+execute positioned ~-0.5 ~-0.3 ~-0.5 run kill @e[tag=beamsns.blockdisplay.angled_beam.planks.acacia,distance=..0.1,limit=2,sort=nearest]
 
 
 

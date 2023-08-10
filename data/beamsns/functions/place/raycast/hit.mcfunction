@@ -108,3 +108,29 @@ execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,4,57],Name:"$beamsns
 execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,4,58],Name:"$beamsns.block.beam"}} run function beamsns:place/angled/general/tuff
 execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,4,59],Name:"$beamsns.block.beam"}} run function beamsns:place/angled/general/dark_prismarine
 
+##LOW BEAMS
+#test what type of planks the beam is
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,1,1],Name:"$beamsns.block.beam"}} run function beamsns:place/low/planks/oak
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,1,2],Name:"$beamsns.block.beam"}} run function beamsns:place/low/planks/spruce
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,1,3],Name:"$beamsns.block.beam"}} run function beamsns:place/low/planks/birch
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,1,4],Name:"$beamsns.block.beam"}} run function beamsns:place/low/planks/jungle
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,1,5],Name:"$beamsns.block.beam"}} run function beamsns:place/low/planks/acacia
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,1,6],Name:"$beamsns.block.beam"}} run function beamsns:place/low/planks/dark_oak
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,1,7],Name:"$beamsns.block.beam"}} run function beamsns:place/low/planks/mangrove
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,1,8],Name:"$beamsns.block.beam"}} run function beamsns:place/low/planks/cherry
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,1,9],Name:"$beamsns.block.beam"}} run function beamsns:place/low/planks/bamboo
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,1,10],Name:"$beamsns.block.beam"}} run function beamsns:place/low/planks/crimson
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,1,11],Name:"$beamsns.block.beam"}} run function beamsns:place/low/planks/warped
+
+#test what type of log the beam is
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,2,1],Name:"$beamsns.block.beam"}} run function beamsns:place/low/log/oak
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,2,2],Name:"$beamsns.block.beam"}} run function beamsns:place/low/log/spruce
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,2,3],Name:"$beamsns.block.beam"}} run function beamsns:place/low/log/birch
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,2,4],Name:"$beamsns.block.beam"}} run function beamsns:place/low/log/jungle
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,2,5],Name:"$beamsns.block.beam"}} run function beamsns:place/low/log/acacia
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,2,6],Name:"$beamsns.block.beam"}} run function beamsns:place/low/log/dark_oak
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,2,7],Name:"$beamsns.block.beam"}} run function beamsns:place/low/log/mangrove
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,2,8],Name:"$beamsns.block.beam"}} run function beamsns:place/low/log/cherry
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,2,9],Name:"$beamsns.block.beam"}} run function beamsns:place/low/log/bamboo
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,2,10],Name:"$beamsns.block.beam"}} run function beamsns:place/low/log/crimson
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,2,11],Name:"$beamsns.block.beam"}} run function beamsns:place/low/log/warped

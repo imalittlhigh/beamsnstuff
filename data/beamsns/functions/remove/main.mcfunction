@@ -4,6 +4,7 @@
  #
  # Created by imalittlhigh.
 ##
+##angled
 #planks
 execute as @s[tag=beamsns.interaction.angled_beam.planks.oak] run function beamsns:remove/angled/planks/oak
 execute as @s[tag=beamsns.interaction.angled_beam.planks.spruce] run function beamsns:remove/angled/planks/spruce
@@ -103,3 +104,31 @@ execute as @s[tag=beamsns.interaction.angled_beam.general.weathered_cut_copper] 
 execute as @s[tag=beamsns.interaction.angled_beam.general.oxidized_cut_copper] run function beamsns:remove/angled/general/oxidized_cut_copper
 execute as @s[tag=beamsns.interaction.angled_beam.general.tuff] run function beamsns:remove/angled/general/tuff
 execute as @s[tag=beamsns.interaction.angled_beam.general.dark_prismarine] run function beamsns:remove/angled/general/dark_prismarine
+
+##low
+#planks
+execute as @s[tag=beamsns.interaction.low_beam.planks.oak] run function beamsns:remove/low/planks/oak
+execute as @s[tag=beamsns.interaction.low_beam.planks.spruce] run function beamsns:remove/low/planks/spruce
+execute as @s[tag=beamsns.interaction.low_beam.planks.birch] run function beamsns:remove/low/planks/birch
+execute as @s[tag=beamsns.interaction.low_beam.planks.acacia] run function beamsns:remove/low/planks/acacia
+execute as @s[tag=beamsns.interaction.low_beam.planks.jungle] run function beamsns:remove/low/planks/jungle
+execute as @s[tag=beamsns.interaction.low_beam.planks.dark_oak] run function beamsns:remove/low/planks/dark_oak
+execute as @s[tag=beamsns.interaction.low_beam.planks.mangrove] run function beamsns:remove/low/planks/mangrove
+execute as @s[tag=beamsns.interaction.low_beam.planks.cherry] run function beamsns:remove/low/planks/cherry
+execute as @s[tag=beamsns.interaction.low_beam.planks.bamboo] run function beamsns:remove/low/planks/bamboo
+execute as @s[tag=beamsns.interaction.low_beam.planks.crimson] run function beamsns:remove/low/planks/crimson
+execute as @s[tag=beamsns.interaction.low_beam.planks.warped] run function beamsns:remove/low/planks/warped
+
+#logs
+execute as @s[tag=beamsns.interaction.low_beam.log.oak] run function beamsns:remove/low/log/oak
+execute as @s[tag=beamsns.interaction.low_beam.log.spruce] run function beamsns:remove/low/log/spruce
+execute as @s[tag=beamsns.interaction.low_beam.log.birch] run function beamsns:remove/low/log/birch
+execute as @s[tag=beamsns.interaction.low_beam.log.acacia] run function beamsns:remove/low/log/acacia
+execute as @s[tag=beamsns.interaction.low_beam.log.jungle] run function beamsns:remove/low/log/jungle
+execute as @s[tag=beamsns.interaction.low_beam.log.dark_oak] run function beamsns:remove/low/log/dark_oak
+execute as @s[tag=beamsns.interaction.low_beam.log.mangrove] run function beamsns:remove/low/log/mangrove
+execute as @s[tag=beamsns.interaction.low_beam.log.cherry] run function beamsns:remove/low/log/cherry
+execute as @s[tag=beamsns.interaction.low_beam.log.bamboo] run function beamsns:remove/low/log/bamboo
+execute as @s[tag=beamsns.interaction.low_beam.log.crimson] run function beamsns:remove/low/log/crimson
+execute as @s[tag=beamsns.interaction.low_beam.log.warped] run function beamsns:remove/low/log/warped
+
