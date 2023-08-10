@@ -12,9 +12,9 @@
 # 3 order (planks, logs, stone)
 # 4 Variant
 
-# 2 - 1=angled 2=low 3=middle 4=high
+# 2 - 1=angled 2=low 3=high 4=centered
 # 3 - 1=planks 2=logs 3=stripped logs 4=general 5=specials
 # 4 - same order as in inventory
 
 ##need to do:
-#add general to remove and loot table
+#crafting recipes for low, centered, high
