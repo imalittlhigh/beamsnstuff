@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "beamsns_crafting:centered/planks/acacia"
+        }
+      }
+    },
+    "rewards": {
+      "function": "beamsns_crafting:crafted/centered/planks/acacia"
+    }
+  }
+  

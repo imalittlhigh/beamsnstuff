@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "beamsns_crafting:centered/general/sandstone"
+      }
+    }
+  },
+  "rewards": {
+    "function": "beamsns_crafting:crafted/centered/general/sandstone"
+  }
+}

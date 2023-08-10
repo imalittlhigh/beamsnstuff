@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "beamsns_crafting:high/general/cobblestone"
+      }
+    }
+  },
+  "rewards": {
+    "function": "beamsns_crafting:crafted/high/general/cobblestone"
+  }
+}

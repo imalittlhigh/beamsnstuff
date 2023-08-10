@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "beamsns_crafting:low/general/smooth_stone"
+      }
+    }
+  },
+  "rewards": {
+    "function": "beamsns_crafting:crafted/low/general/smooth_stone"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "beamsns_crafting:centered/log/oak"
+        }
+      }
+    },
+    "rewards": {
+      "function": "beamsns_crafting:crafted/centered/log/oak"
+    }
+  }
+  

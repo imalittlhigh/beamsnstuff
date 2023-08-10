@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "beamsns_crafting:high/log/acacia"
+        }
+      }
+    },
+    "rewards": {
+      "function": "beamsns_crafting:crafted/high/log/acacia"
+    }
+  }
+  

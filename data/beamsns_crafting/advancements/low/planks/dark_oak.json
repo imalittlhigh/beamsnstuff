@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "beamsns_crafting:low/planks/dark_oak"
+        }
+      }
+    },
+    "rewards": {
+      "function": "beamsns_crafting:crafted/low/planks/dark_oak"
+    }
+  }
+  
