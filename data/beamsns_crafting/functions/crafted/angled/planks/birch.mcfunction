@@ -13,5 +13,4 @@ clear @s knowledge_book
 loot give @s loot beamsns:beams/angled/planks/birch
 loot give @s loot beamsns:beams/angled/planks/birch
 loot give @s loot beamsns:beams/angled/planks/birch
-loot give @s loot beamsns:beams/angled/planks/birch
 

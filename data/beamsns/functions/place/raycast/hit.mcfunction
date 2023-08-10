@@ -105,3 +105,6 @@ execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,4,54],Name:"$beamsns
 execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,4,55],Name:"$beamsns.block.beam"}} run function beamsns:place/angled/general/exposed_cut_copper
 execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,4,56],Name:"$beamsns.block.beam"}} run function beamsns:place/angled/general/weathered_cut_copper
 execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,4,57],Name:"$beamsns.block.beam"}} run function beamsns:place/angled/general/oxidized_cut_copper
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,4,58],Name:"$beamsns.block.beam"}} run function beamsns:place/angled/general/tuff
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,1,4,59],Name:"$beamsns.block.beam"}} run function beamsns:place/angled/general/dark_prismarine
+

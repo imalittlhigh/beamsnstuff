@@ -8,5 +8,5 @@ execute positioned ~-0.5 ~-0.3 ~-0.5 run kill @e[tag=beamsns.blockdisplay.angled
 
 
 
-loot spawn ~ ~ ~ loot beamsns:beams/angled/stripped/stone
+loot spawn ~ ~ ~ loot beamsns:beams/angled/general/stone
 kill @s
