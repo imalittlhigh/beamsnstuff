@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "beamsns_crafting:angled/log/birch"
+        }
+      }
+    },
+    "rewards": {
+      "function": "beamsns_crafting:crafted/angled/log/birch"
+    }
+  }
+  
