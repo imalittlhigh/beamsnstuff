@@ -132,3 +132,15 @@ execute as @s[tag=beamsns.interaction.low_beam.log.bamboo] run function beamsns:
 execute as @s[tag=beamsns.interaction.low_beam.log.crimson] run function beamsns:remove/low/log/crimson
 execute as @s[tag=beamsns.interaction.low_beam.log.warped] run function beamsns:remove/low/log/warped
 
+#stripped logs
+execute as @s[tag=beamsns.interaction.low_beam.stripped.oak] run function beamsns:remove/low/stripped/oak
+execute as @s[tag=beamsns.interaction.low_beam.stripped.spruce] run function beamsns:remove/low/stripped/spruce
+execute as @s[tag=beamsns.interaction.low_beam.stripped.birch] run function beamsns:remove/low/stripped/birch
+execute as @s[tag=beamsns.interaction.low_beam.stripped.acacia] run function beamsns:remove/low/stripped/acacia
+execute as @s[tag=beamsns.interaction.low_beam.stripped.jungle] run function beamsns:remove/low/stripped/jungle
+execute as @s[tag=beamsns.interaction.low_beam.stripped.dark_oak] run function beamsns:remove/low/stripped/dark_oak
+execute as @s[tag=beamsns.interaction.low_beam.stripped.mangrove] run function beamsns:remove/low/stripped/mangrove
+execute as @s[tag=beamsns.interaction.low_beam.stripped.cherry] run function beamsns:remove/low/stripped/cherry
+execute as @s[tag=beamsns.interaction.low_beam.stripped.bamboo] run function beamsns:remove/low/stripped/bamboo
+execute as @s[tag=beamsns.interaction.low_beam.stripped.crimson] run function beamsns:remove/low/stripped/crimson
+execute as @s[tag=beamsns.interaction.low_beam.stripped.warped] run function beamsns:remove/low/stripped/warped

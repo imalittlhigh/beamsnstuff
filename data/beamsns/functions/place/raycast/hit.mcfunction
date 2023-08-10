@@ -134,3 +134,16 @@ execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,2,8],Name:"$beamsns.
 execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,2,9],Name:"$beamsns.block.beam"}} run function beamsns:place/low/log/bamboo
 execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,2,10],Name:"$beamsns.block.beam"}} run function beamsns:place/low/log/crimson
 execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,2,11],Name:"$beamsns.block.beam"}} run function beamsns:place/low/log/warped
+
+#test what type of stripped log the beam is
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,3,1],Name:"$beamsns.block.beam"}} run function beamsns:place/low/stripped/oak
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,3,2],Name:"$beamsns.block.beam"}} run function beamsns:place/low/stripped/spruce
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,3,3],Name:"$beamsns.block.beam"}} run function beamsns:place/low/stripped/birch
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,3,4],Name:"$beamsns.block.beam"}} run function beamsns:place/low/stripped/jungle
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,3,5],Name:"$beamsns.block.beam"}} run function beamsns:place/low/stripped/acacia
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,3,6],Name:"$beamsns.block.beam"}} run function beamsns:place/low/stripped/dark_oak
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,3,7],Name:"$beamsns.block.beam"}} run function beamsns:place/low/stripped/mangrove
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,3,8],Name:"$beamsns.block.beam"}} run function beamsns:place/low/stripped/cherry
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,3,9],Name:"$beamsns.block.beam"}} run function beamsns:place/low/stripped/bamboo
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,3,10],Name:"$beamsns.block.beam"}} run function beamsns:place/low/stripped/crimson
+execute if block ~ ~ ~ #beamsns:heads{SkullOwner:{Id:[I;1,2,3,11],Name:"$beamsns.block.beam"}} run function beamsns:place/low/stripped/warped
