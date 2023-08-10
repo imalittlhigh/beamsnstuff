@@ -3,11 +3,11 @@
     "requirement": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "beamsns_crafting:angled/general/prismarine"
+        "recipe": "beamsns_crafting:angled/general/iron_block"
       }
     }
   },
   "rewards": {
-    "function": "beamsns_crafting:crafted/angled/general/prismarine"
+    "function": "beamsns_crafting:crafted/angled/general/iron_block"
   }
 }
